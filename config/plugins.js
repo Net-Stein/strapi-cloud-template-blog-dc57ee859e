@@ -1,5 +1,5 @@
 module.exports = () => ({
     tinymce: {
-        enabled: true
-    };
+        enabled: true,
+    },
 });
